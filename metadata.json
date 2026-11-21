@@ -1,0 +1,6 @@
+{
+  "name": "Amharic AI Voice & Speech Studio",
+  "description": "Free unlimited Amharic Text-to-Speech studio with emotional voice styling, Ge'ez script support, multi-track DAW audio editor, voice cloning, and dubbing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

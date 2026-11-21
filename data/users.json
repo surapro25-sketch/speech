@@ -1,0 +1,41 @@
+[
+  {
+    "id": "usr-surapro-admin",
+    "username": "surapro",
+    "email": "surapro@system.internal",
+    "name": "Surapro Admin",
+    "password": "7654321",
+    "role": "admin",
+    "status": "active",
+    "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=SuraproAdmin",
+    "authProvider": "local",
+    "createdAt": "2026-10-02T08:48:33.412Z",
+    "lastLoginAt": "2026-10-02T10:16:48.852Z"
+  },
+  {
+    "id": "usr-surapro-google",
+    "username": "surapro25",
+    "email": "surapro25@gmail.com",
+    "name": "Sura Pro",
+    "password": "user_surapro_2026",
+    "role": "user",
+    "status": "active",
+    "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=SuraProAnime",
+    "authProvider": "google",
+    "createdAt": "2026-10-02T08:48:33.412Z",
+    "lastLoginAt": "2026-10-02T10:16:51.598Z"
+  },
+  {
+    "id": "usr-demo-creator",
+    "username": "amharic_creator",
+    "email": "creator@amharicstudio.ai",
+    "name": "Amharic Voice Creator",
+    "password": "password123",
+    "role": "user",
+    "status": "active",
+    "avatarUrl": "https://api.dicebear.com/7.x/lorelei/svg?seed=AmharicCreatorAnime",
+    "authProvider": "local",
+    "createdAt": "2026-10-02T08:48:33.412Z",
+    "lastLoginAt": "2026-10-02T09:23:17.767Z"
+  }
+]
